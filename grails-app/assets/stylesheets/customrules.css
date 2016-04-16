@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+.bold>a{font-weight:bold}
+
+a.page-title{
+    line-height:122px;font-size:48px;
+}
+nav.top-nav{
+    height:122px;
+    box-shadow: none;
+}
+main {
+    flex: 1 0 auto;
+}
+
+.appcolor{
+    background-color: #303F9F !important;
+}
+.apptextcolor{
+    color: #303F9F !important;
+}
+.apptextcolor.light{
+    color: rgba(20, 84, 176, 0.65) !important;
+}

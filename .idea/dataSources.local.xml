@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="H2 - devDb" uuid="316978f6-6b00-4b23-a801-5073518caf9b">
+      <secret-storage>master_key</secret-storage>
+      <auth-required>false</auth-required>
+      <schema-pattern>DEVDB.*</schema-pattern>
+      <default-schemas>DEVDB.PUBLIC</default-schemas>
+    </data-source>
+  </component>
+</project>
